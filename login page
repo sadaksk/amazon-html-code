@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="style.css"> </head>
 <body>
     <header>
-        <img src="amazon-logo.png" alt="Amazon Logo">
+    
         <h1>Sign in to Amazon</h1>
     </header>
     <main>
